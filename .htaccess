@@ -1,0 +1,13 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+RewriteRule \.(css|jpe?g|gif|png|js|eot|otf|svg|ttf)$ - [L]
+RewriteCond %{REQUEST_URI} ^/[^\.]+[^/]$
+RewriteRule ^(.*)$ http://%{HTTP_HOST}/$1/ [R=301,L]
+RewriteRule ^([^/\.]+)/?$ http://%{HTTP_HOST}/$1/home/ [R=301,L]
+RewriteRule ^([^/\.]+)/([^/\.]+)/?$ /index.php?&lang=$1&content=$2 [L]
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)/?$ /index.php?&request=$1&download=$2&ver=$3 [L]
+
+# Auto insert GA Code
+ModPagespeedEnableFilters insert_ga
+ModPagespeedAnalyticsID UA-3245122-7

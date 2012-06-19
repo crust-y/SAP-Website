@@ -1,0 +1,187 @@
+﻿<?php
+/**
+ *	Streamers Admin Panel - Main Website
+ *	Language File
+ *	
+ *	Language: English (English-US)
+ *	Translator: Sebastian Graebner
+ *
+ *	Filename: en.inc.php
+ *
+ */
+
+/**
+ *	This variables are the global language variables, which are used in all files.
+ */
+$languageVar['global01'] = 'Streamers Admin Panel is a PHP5 web-based administration interface program for Nullsoft\'s SHOUTcast (DNAS) server and is available for the most common Linux distributions.';
+$languageVar['global02'] = 'streamers, admin, panel, djcrackhome, nullsoft, stream, radio, dnas, free';
+$languageVar['global03'] = 'Sebastian Graebner, djcrackhome';
+$languageVar['global04'] = 'Developed by';
+$languageVar['global05'] = 'Designed by';
+$languageVar['global06'] = 'License';
+$languageVar['global07'] = 'Legal';
+$languageVar['global08'] = 'Get the latest Version for <b>Free</b>';
+
+/**
+ *	Please provide the correct language code for your country, provided by Facebook
+ *	File URL: https://www.facebook.com/translations/FacebookLocales.xml
+ */
+$languageVar['locale'] = 'en_US';
+
+/**
+ *	Language variables for the image slider on the main website
+ */
+$languageVar['slide01'] = 'Simple Customer-/User Login';
+$languageVar['slide02'] = 'Easy Configuration Settings';
+$languageVar['slide03'] = 'Playlists are User defined and time-controlled';
+$languageVar['slide04'] = 'Customer and User DJs management';
+
+/**
+ *	In the following are all language variables which are used in the sub-pages 
+ */
+$languageVar['about01'] = 'Streamers Admin Panel | About Us';
+$languageVar['about02'] = 'About Streamers Admin Panel';
+$languageVar['about03'] = 'Streamers Admin Panel was officially founded on March 21st 2007 and was recently, to avoid legal problems, renamed from \'Shoutcast Admin Panel\' to \'Streamers Admin Panel\'. Streamers Admin Panel was created several years ago as a private project to simplify and lessen the setup time for online radio sites, and their servers.';
+$languageVar['about04'] = 'With a lot of time, and mainly by request of various radio operators, Streamers Admin Panel started to develope for \'public\' use. With rising demand, more and more features were added to the panel. Currently, Streamers Admin Panel gives you a user-friendly web interface that allows you to create customer accounts, and associate radio servers with these. All radio servers contain a so-called \'AutoDJ\' function, which provides an automated playback of previously selected and uploaded multimedia files. In future we will continue to add more useful features to the panel';
+$languageVar['about05'] = 'We would suggest you to read the following description of the progress and the developer.';
+$languageVar['about06'] = 'About the Developer and Progress';
+$languageVar['about07'] = 'A 23-year-old computer science student, currently living in Los Angeles, CA. Since my early youth, I have been interested in Web development. The more time I spent with it, the more I started using server-side scripting languages ​​such as PHP.';
+$languageVar['about08'] = 'After a short time, I already started to become very interested with such languages. I like to get very inspired by the different music from various internet radio stations. I wanted to help these operators with the technical aspects, because some Internet radio stations have problems with their radio websites and servers.';
+$languageVar['about09'] = 'Consequential, I started to come more and more info contact with Nullsoft\'s SHOUTcast server. Since there were no free and fully-functioning web interface for this application at that time, and we needed one for the various internet radios, I started with various code snippets, to develop such a web application.';
+$languageVar['about10'] = 'After a short time I had been asked by many web radios for this web application. When I then decided to make this program available for free, the demand was immense. This gave me the confirmation to continue the development for this program.';
+$languageVar['about11'] = 'There have been various other respectful programs around, that are pretty similar to my program, but none of them, makes the code open-source, free, and available for commercial use. In this matter, I must thank Zephon for this great custom design, which he designed specifically for Streamers Admin Panel.';
+$languageVar['about12'] = 'I will continue to develop this project as long as I can. Due to my studies in computer science my time is very limited. It is more than just the code but also the concept and idea.';
+$languageVar['about13'] = 'Support Staff';
+$languageVar['about14'] = '[Info coming soon]';
+$languageVar['about15'] = '[Info coming soon]';
+$languageVar['about16'] = 'I am a freelance computer technician and have been working for quite some time with Linux.';
+$languageVar['about17'] = 'I am working as an employee in a data center, for quality checking and maintenance.';
+$languageVar['about18'] = 'I am working in my leisure with Streamers Admin Panel. And I am responsible for the Support forum.';
+
+$languageVar['donate01'] = 'Support The Project';
+$languageVar['donate02'] = '..Through Donations';
+$languageVar['donate03'] = 'The Streamers Admin Panel project is entirely funded through the generous donations from users of this panel. We are very grateful for these donations.';
+$languageVar['donate04'] = 'https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif';
+$languageVar['donate05'] = 'Now quickly, easily and securely donate to Streamers Admin Panel - with PayPal.';
+$languageVar['donate06'] = '..Through Advertising';
+$languageVar['donate07'] = 'If you have no extra financial resources available, then please use one of our radio spots and/or one of our ad banners on your radio and/or websites.';
+$languageVar['donate08'] = 'S.A.P. Radio Commercial [German]';
+$languageVar['donate09'] = 'S.A.P. Radio Commercial [English]';
+$languageVar['donate10'] = 'S.A.P. Ad Media Pack [Coming Soon]';
+$languageVar['donate11'] = 'S.A.P. Small Banners';
+$languageVar['donate12'] = 'Thank you, for your support!';
+
+$languageVar['download01'] = 'Streamers Admin Panel - Download';
+$languageVar['download02'] = 'Download';
+$languageVar['download03'] = 'In the following listings, you can choose between different versions of the Streamers Admin Panel. We recommend you to download always the latest version. All downloads are packed in a <a href="http://en.wikipedia.org/wiki/ZIP_(file_format)" target="_blank">ZIP file format</a>, we suggest to use a zip-friendly program, to unpack/unzip the data. All other versions are only intended as an overview between the older versions. We publish this files to help other developers in their progress.';
+$languageVar['download04'] = 'We recommend you to always read the release\'s \'<a href="http://en.wikipedia.org/wiki/Readme" target="_blank">README</a>\' file first, before using it. Important release information are published in this file.';
+$languageVar['download05'] = 'Version 3.1 public-beta 1';
+$languageVar['download06'] = 'This version offers a little insight into the development of the new Streamers Admin Panel. New functions are, compared to the version 2, a completely new user-friendly interface and a AutoDJ function. An editor has also been added to create playlists.';
+$languageVar['download07'] = 'This version was completed a while ago in a test-development, the final version 3, which will include a completely different object-oriented code. This version does not meet any security standards and is not recommended for use. It is not intended to be used as a \'production\' version. A <a href="http://en.wikipedia.org/wiki/Beta_release#Beta" target="_blank">Beta Release</a> should be used only for testing purposes.';
+$languageVar['download08'] = 'Requirements';
+$languageVar['download09'] = 'License';
+$languageVar['download10'] = 'MD5 Filehash';
+$languageVar['download11'] = 'SHA-1 Filehash';
+$languageVar['download12'] = 'Download-Mirror';
+$languageVar['download13'] = 'S.A.P. Product Page';
+$languageVar['download14'] = 'Web Server (eg Apache, nginx, etc.) with Shell / System Access, PHP5.3 and Linux-based Distribution.';
+$languageVar['download15'] = 'BSD (Berkeley Software Distribution) 3-clause license (Open-Source)';
+$languageVar['download16'] = 'Version 2.2';
+$languageVar['download17'] = 'Version 2 was the first well-functioning version that officially integrated with SHOUTcast 1.98. This version has been upgraded to version 2.2 after a few security updates. There is no AutoDJ function integrated.';
+$languageVar['download18'] = 'Web Server (eg Apache, nginx, etc.) with Shell / System Access, PHP, and either a Microsoft Windows Server or Linux-based Distribution.';
+$languageVar['download19'] = 'No License Available';
+$languageVar['download20'] = 'Version 1.2';
+$languageVar['download21'] = 'This version offers a glimpse of the first steps, this version was the first attempt to integrate a web interface.';
+$languageVar['download22'] = 'Web Server (eg Apache, nginx, etc.) with Shell / System Access, PHP, and either a Microsoft Windows Server or Linux-based Distribution.';
+$languageVar['download23'] = 'No License Available';
+$languageVar['download24'] = 'Demo';
+$languageVar['download25'] = 'Currently no demonstration available';
+$languageVar['download26'] = 'Version 3.2';
+$languageVar['download27'] = 'Our brand new version 3.2 is a stable new Streamer Admin Panel version, which the first time provides you with a surface where you can administer SHOUTcast version 1.98.';
+$languageVar['download28'] = 'All information regarding this release will be published on release day.';
+$languageVar['download29'] = 'Release';
+$languageVar['download30'] = 'The release is planned for November 11, but due to low donations, the release will probably be delayed. If the costs are covered by donations, the version is going to be published.';
+
+$languageVar['features01'] = 'Streamers Admin Panel | Features';
+$languageVar['features02'] = 'Features of this web interface';
+$languageVar['features03'] = 'The Streamers Admin Panel offers several features to make your web-interface experience as useful as possible. All these features, and more to come, are included in the current version free-of-charge, and there is no need to install additional software. We will continue to add more features in future, we would like to hear from you, users, any suggestions for future features. We appreciate your feedback.';
+$languageVar['features04'] = 'SHOUTcast 1.98';
+$languageVar['features05'] = 'Nullsoft\'s SHOUTcast 1.98';
+$languageVar['features06'] = 'Multiple Radio Server';
+$languageVar['features07'] = 'You can use the Streamers Admin Panel to edit and administer multiple radio server simultaneously, where they run independently of each other.';
+$languageVar['features08'] = 'Linux and Windows';
+$languageVar['features09'] = 'The panel currently works on Linux- and Windows-based Server operating systems. We are currently planning to extend to more other Server OS\'s.';
+$languageVar['features10'] = 'AutoDJ and Playlists';
+$languageVar['features11'] = 'All SHOUTcast server contain a so-called \'AutoDJ\', this feature let\'s the user of the stream, play a playlist from previous uploaded files, without any user interaction.';
+$languageVar['features12'] = 'Additional Information';
+$languageVar['features13'] = 'More features will be published as soon the new version of \'Streamers Admin Panel\' is ready. Therefore, we would ask you for a little more patience.';
+
+$languageVar['home01'] = 'Streamers Admin Panel | Web Administration for SHOUTcast';
+$languageVar['home02'] = 'The Streamers Admin Panel is...';
+$languageVar['home03'] = '...a <a href="http://www.php.net/" target="_blank">PHP5</a> programmed web-based administration interface for <a href="http://www.shoutcast.com/" target="_blank">Nullsoft\'s SHOUTcast Distributed Network Audio Server (DNAS)</a>, and is available for the most common Linux-based distributions.';
+$languageVar['home04'] = 'This user-friendly administration interface allows you to easily administer multiple SHOUTcast servers with little basic knowledge. Create customers and/or DJs to your administration interface, assign SHOUTcast servers to their accounts, and let them operate and access their servers foolproof.';
+$languageVar['home05'] = 'Quick Overview';
+$languageVar['home06'] = 'The purpose of this program is to help you, get past the complicated configuration and administration work with SHOUTcast. With Streamers Admin Panel you can offer your customers the ability to directly upload multimedia files on to the server and insert these files directly into the playlist.';
+$languageVar['home07'] = 'version 1.98';
+$languageVar['home08'] = 'Multiple Server Instances at the same time.';
+$languageVar['home09'] = 'Designed for Linux Servers';
+$languageVar['home10'] = 'Automated and Scheduled Playlists';
+$languageVar['home11'] = 'Latest <span class="facebook">Facebook</span> News:';
+$languageVar['home12'] = 'Post'; //Facebook 'Post'
+
+$languageVar['imprint01'] = 'Streamers Admin Panel | Legal &amp; Privacy Policy';
+$languageVar['imprint02'] = 'Legal Notice According to §5 of Germany\'s TDG and §55 RSTV';
+$languageVar['imprint03'] = 'Operator and contact person';
+$languageVar['imprint04'] = 'Phone';
+$languageVar['imprint05'] = 'E-Mail';
+$languageVar['imprint06'] = 'Sales tax identification number and HRB number are not available. Donations to this project will be used to cover development- and server costs, and result at that time in no tax-related gain.';
+$languageVar['imprint07'] = 'The entire web site of Streamers Admin Panel published images, documents, etc. are copyright of Streamers Admin Panel [djcrackhome], with the exception of external listed/mentioned data source.';
+$languageVar['imprint08'] = 'Downloading or printing these publications is only permitted under the consideration of the following license: <a href="http://www.creativecommons.org/licenses/by-nd/3.0/deed.en" target="_blank">Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)</a>';
+$languageVar['imprint09'] = 'Note';
+$languageVar['imprint10'] = 'Streamers Admin Panel takes no responsibility for the content of external websites linked to or from www.streamerspanel.com.';
+$languageVar['imprint11'] = 'The author assumes no responsibility for the topicality, correctness, completeness or quality of information provided. Liability claims against the author relating to material or immaterial nature caused by use or disuse of the information or the use of incorrect or incomplete information are basically excluded, provided that the author is not demonstrably intentional or grossly negligent at fault.';
+$languageVar['imprint12'] = 'All offers are non-binding. The author reserves himself to expressly change parts of or the entire offer without separate announcement to supplement to delete of the publication temporarily or permanently.';
+$languageVar['imprint13'] = 'This disclaimer is to be regarded as part of the internet publication which you were referred to on this page. If sections or individual terms of this statement are not legal or correct, the remaining parts of the document in their content and validity.';
+$languageVar['imprint14'] = 'Privacy Policy';
+$languageVar['imprint15'] = 'Streamers Admin Panel takes the protection of personal data very seriously. We have taken technical and organizational measures to ensure that the rules on data protection are observed.';
+$languageVar['imprint16'] = 'When you visit our website we collect, what pages you visit and how long you linger on it. This is the textual, graphical and technical improvement of our website. But there are no IP addresses stored, which can identify you.';
+$languageVar['imprint17'] = 'Your personal information in case of ordering information materials we use your information only for this purpose and will not be passed on to third parties. As part of this Internet offer cookies are used in the support forum of Streamers Admin Panel.';
+$languageVar['imprint18'] = 'For communication with our team, please visit the Support Page, under which you will find a variety of communication options and also the link to our support forum.';
+$languageVar['imprint19'] = 'This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States.';
+$languageVar['imprint20'] = '[<strong>Only</strong> for administrative affairs]';
+$languageVar['imprint21'] = 'Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google\'s behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.';
+
+$languageVar['menu01'] = 'Home';
+$languageVar['menu02'] = 'Features';
+$languageVar['menu03'] = 'About Us';
+$languageVar['menu04'] = 'Download';
+$languageVar['menu05'] = 'Support';
+$languageVar['menu06'] = 'Webplayer';
+
+$languageVar['support01'] = 'Streamers Admin Panel | Support';
+$languageVar['support02'] = 'Support';
+$languageVar['support03'] = 'In the following below, you can find contact information and a link to our support forum. If you have any suggestions for our software, please contact us. For troubleshooting with our software, please visit the Support forum link. We are always happy to receive any recommendations or suggestions.';
+$languageVar['support04'] = 'Advertising or Sponsorship Inquiries';
+$languageVar['support05'] = 'We are always looking for sponsors who want to help us, and spread the word. We appreciate help, but we can not offer any advertising in the program, at this time. By agreement with the administration, it is possible to obtain ad space on a page of this website.';
+$languageVar['support06'] = 'E-Mail';
+$languageVar['support07'] = 'Phone';
+$languageVar['support08'] = 'Support-Forum';
+$languageVar['support09'] = 'Skype';
+$languageVar['support10'] = '[<strong>Only</strong> for administrative affairs]';
+
+$languageVar['license01'] = 'Streamers Admin Panel | License agreement';
+$languageVar['license02'] = 'License agreement';
+$languageVar['license03'] = 'Copyright (c) 2012, Sebastian Graebner &lt;djcrackhome&gt;, Streamers Admin Panel<br/>All rights reserved.';
+$languageVar['license04'] = 'Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:';
+$languageVar['license05'] = 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.';
+$languageVar['license06'] = 'Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.';
+$languageVar['license07'] = 'Neither the name of Streamers Admin Panel nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.';
+$languageVar['license08'] = 'THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.';
+$languageVar['license09'] = 'This license is based on \'Berkeley Software Distribution\' (BSD) 3-clause license, which expresses a Open-Source license.';
+
+$languageVar['forum01'] = 'Streamers Admin Panel - Support Forum Information';
+$languageVar['forum02'] = 'Support Forum - Information';
+$languageVar['forum03'] = 'Sehr geehrte Damen und Herren, zur Zeit befindet sich das Support Forum in einem Wartungsmodus. Wie manche Benutzer eventuell erfahren mussten, wurde unser Forum manipuliert. Dieser Vorgang wird rechtliche Schritte für denjenigen zur Folge haben. Zur Zeit befinde ich mich auf einem Urlaub, welchen ich unerwartet als Geschenk erhalten habe. Ich bin daher aktuell nicht in der Lage wie gewöhnlich Online zu kommen.';
+$languageVar['forum04'] = 'Das Streamers Admin Panel 3 wird trotzdem so bald ich wieder Zuhause bin veröffentlicht! Die neue Version wird veröffentlicht und liegt soweit fast fertig auf meinem Notebook. Von meinen Codes und auch vom Forum gibt es Backups und die werden auch sobald ich wieder im Lande bin eingespielt. Das Forum wird es dann auch wieder geben, dies ist nur temporär. Alle eure Spenden an dieses Projekt werden zur Entwicklungs- und Serverkosten Deckung benutzt, und ergeben zu dem Zeitpunkt keinen relevanter Gewinn.';
+$languageVar['forum05'] = 'Lasst euch nichts erzählen, eine neue Version wird es geben, und liegt soweit fast fertig bei mir auf meinem Notebook, ich werde es dann so schnell releasen wie es nur geht. In der Zwischenzeit besucht doch bitte unsere Facebook Seite für eure Support Forum Threads etc.';
+$languageVar['forum06'] = 'Ich wünsche euch allen noch frohe Weihnachtstage, und einen guten Rutsch in das neue Jahr 2012. Alle VIP Member werden bei der Veröffentlichung bevorzugt behandelt, da diese uns wirklich Helfen dieses Projekt am Leben zu halten. Vielen Dank auch nochmals dafür<br /><br />Euer djcrackhome';
